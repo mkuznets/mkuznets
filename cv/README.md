@@ -28,7 +28,7 @@ Moscow, Russia | maks.kuznetsov@gmail.com | [github.com/mkuznets](https://github
 * Gave lectures and seminars, designed homework assignments, conducted exams.
 * Created an [online platform](https://github.com/mkuznets/classbox) (**Golang**) for autograded programming assignments.
 
-**Computer Architecture**, Sep 2015 – May 2016\
+**Computer Architecture**, Oct 2015 – May 2016\
 *University of Hertfordshire (Hatfield, UK)*
 
 * Gave supplemental lectures, designed homework assignments.
