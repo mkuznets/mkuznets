@@ -1,0 +1,5 @@
+# Default behaviour: convert line endings to LF (Unix-style) on checkout.
+* text eol=lf
+
+# Binary files: should not be modified
+*.pdf binary

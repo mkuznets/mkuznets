@@ -1,0 +1,72 @@
+name: 'Max Kuznetsov'
+summary: >
+  Backend Software Engineer (**Golang**, **Python**) · Computer Science Teacher · Former Compiler Engineer (**GCC**, **x86**)
+
+contacts:
+  location: 'Moscow, Russia'
+  email: 'maks.kuznetsov@gmail.com'
+  github: 'mkuznets'
+  linkedin: 'mkuznets'
+
+sections:
+
+  - title: 'Experience'
+    entries:
+
+      - title: 'Software Engineer'
+        rtitle: 'Jan 2017 – Dec 2019'
+        subtitle: 'Yandex'
+        rsubtitle: 'Moscow'
+        description:
+          - >
+            Created an internal service for automating procurement workflows (**Python**, **Django**, **PostgreSQL**).
+          - >
+            Maintained and contributed to an internal distributed batch-processing system (**Python**, **MongoDB**, **LXC**).
+
+      - title: 'Software Engineer Intern'
+        rtitle: 'Jun 2011 – Jun 2013'
+        subtitle: 'Intel Corporation'
+        rsubtitle: 'Moscow'
+        description:
+          - Contributed to AVX-512 support in GCC (**C**, **x86 assembly**); the patches have been [accepted to GCC 4.9](https://gcc.gnu.org/news.html#:~:text=Intel%20AVX-512%20support) in 2014.
+          - Implemented an AVX-512 specific optimisation in GCC resulted in 1% improvement on SPECfp benchmark.
+
+
+  - title: 'Teaching'
+    entries:
+
+      - title: 'Introduction to Algorithms'
+        rtitle: 'Jan 2017 – Jun 2020'
+        subtitle: 'Higher School of Economics'
+        rsubtitle: 'Moscow'
+        description:
+          - >
+            Gave lectures and seminars, designed homework assignments, conducted exams.
+          - >
+            Created an [online platform](https://github.com/mkuznets/classbox) (**Golang**) for autograded programming assignments.
+
+      - title: 'Computer Architecture'
+        rtitle: 'Oct 2015 – May 2016'
+        subtitle: 'University of Hertfordshire'
+        rsubtitle: 'Hatfield, UK'
+        description:
+          - >
+            Gave supplemental lectures, designed homework assignments.
+
+
+  - title: 'Education'
+    entries:
+
+      - title: 'University of Hertfordshire (UK)'
+        subtitle: 'MSc by Research, Computer Science.'
+        rtitle: 'Jan 2014 – Jul 2016'
+        description:
+          - >
+            Thesis: *[Data-Driven Self-Tuning in a Coordination Programming Language](http://uhra.herts.ac.uk/handle/2299/17198)*.
+
+      - title: 'Moscow Institute of Physics and Technology'
+        subtitle: 'BSc, Applied Mathematics and Physics.'
+        rtitle: 'Sep 2009 – Feb 2014'
+        description:
+          - >
+            Thesis: *On Element-Wise Predicates Support in GCC Autovectorisation*.
