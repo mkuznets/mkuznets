@@ -1,3 +1,3 @@
-cv*.md
-cv*.tex
+./cv*.md
+./cv*.tex
 venv
