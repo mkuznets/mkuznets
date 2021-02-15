@@ -2,7 +2,7 @@
 
 # Max Kuznetsov
 
-Backend Software Engineer (**Golang**, **Python**) · Computer Science Teacher · Former Compiler Engineer (**GCC**, **x86**)
+Backend Software Engineer (**Golang**, **Python**) · Computer Science Teacher · Ex-Compiler Engineer
 
 
 Moscow, Russia | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [github.com/mkuznets](https://github.com/mkuznets) | [linkedin.com/in/mkuznets](https://linkedin.com/in/mkuznets)
@@ -10,10 +10,11 @@ Moscow, Russia | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [
 ## Experience
 
 **Software Engineer**, Jan 2017 – Dec 2019\
-*Yandex* *(Moscow)*
+*[Yandex](https://yandex.com/company)* *(Moscow)*
 
-* Created an internal service for automating procurement workflows (**Python**, **Django**, **PostgreSQL**).
-* Maintained and contributed to an internal distributed batch-processing system (**Python**, **MongoDB**, **LXC**).
+* Designed, built, and maintained backend services for business and software development infrastructure (**REST API**, **Python**, **PostgreSQL**, **MongoDB**).
+* Improved performance, stability, and observability of large-scale distributed systems.
+* Collaborate with other teams to establish and improve integrations across software development tools and services.
 
 **Software Engineer Intern**, Jun 2011 – Jun 2013\
 *Intel Corporation* *(Moscow)*
@@ -27,13 +28,13 @@ Moscow, Russia | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [
 **Introduction to Algorithms**, Jan 2017 – Jun 2020\
 *Higher School of Economics* *(Moscow)*
 
-* Gave lectures and seminars, designed homework assignments, conducted exams.
-* Created an [online platform](https://github.com/mkuznets/classbox) (**Golang**) for autograded programming assignments.
+* Gave lectures and seminars; designed homework assignments; conducted exams.
+* Built an [online platform](https://github.com/mkuznets/classbox) (**Golang**) with auto-graded programming assignments for students.
 
 **Computer Architecture**, Oct 2015 – May 2016\
 *University of Hertfordshire* *(Hatfield, UK)*
 
-* Gave supplemental lectures, designed homework assignments.
+* Gave supplemental lectures; designed homework assignments.
 
 
 ## Education

@@ -1,6 +1,8 @@
 name: 'Max Kuznetsov'
 summary: >
-  Backend Software Engineer (**Golang**, **Python**) · Computer Science Teacher · Former Compiler Engineer (**GCC**, **x86**)
+  Backend Software Engineer (**Golang**, **Python**)
+  · Computer Science Teacher
+  · Ex-Compiler Engineer
 
 contacts:
   location: 'Moscow, Russia'
@@ -15,20 +17,24 @@ sections:
 
       - title: 'Software Engineer'
         rtitle: 'Jan 2017 – Dec 2019'
-        subtitle: 'Yandex'
+        subtitle: '[Yandex](https://yandex.com/company)'
         rsubtitle: 'Moscow'
         description:
           - >
-            Created an internal service for automating procurement workflows (**Python**, **Django**, **PostgreSQL**).
+            Designed, built, and maintained backend services for business and software development infrastructure
+            (**REST API**, **Python**, **PostgreSQL**, **MongoDB**).
           - >
-            Maintained and contributed to an internal distributed batch-processing system (**Python**, **MongoDB**, **LXC**).
+            Improved performance, stability, and observability of large-scale distributed systems.
+          - >
+            Collaborate with other teams to establish and improve integrations across software development tools and services.
 
       - title: 'Software Engineer Intern'
         rtitle: 'Jun 2011 – Jun 2013'
         subtitle: 'Intel Corporation'
         rsubtitle: 'Moscow'
         description:
-          - Contributed to AVX-512 support in GCC (**C**, **x86 assembly**); the patches have been [accepted to GCC 4.9](https://gcc.gnu.org/news.html#:~:text=Intel%20AVX-512%20support) in 2014.
+          - 'Contributed to AVX-512 support in GCC (**C**, **x86 assembly**);
+            the patches have been [accepted to GCC 4.9](https://gcc.gnu.org/news.html#:~:text=Intel%20AVX-512%20support) in 2014.'
           - Implemented an AVX-512 specific optimisation in GCC resulted in 1% improvement on SPECfp benchmark.
 
 
@@ -41,9 +47,10 @@ sections:
         rsubtitle: 'Moscow'
         description:
           - >
-            Gave lectures and seminars, designed homework assignments, conducted exams.
+            Gave lectures and seminars; designed homework assignments; conducted exams.
           - >
-            Created an [online platform](https://github.com/mkuznets/classbox) (**Golang**) for autograded programming assignments.
+            Built an [online platform](https://github.com/mkuznets/classbox) (**Golang**)
+            with auto-graded programming assignments for students.
 
       - title: 'Computer Architecture'
         rtitle: 'Oct 2015 – May 2016'
@@ -51,7 +58,7 @@ sections:
         rsubtitle: 'Hatfield, UK'
         description:
           - >
-            Gave supplemental lectures, designed homework assignments.
+            Gave supplemental lectures; designed homework assignments.
 
 
   - title: 'Education'
