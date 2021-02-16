@@ -14,7 +14,7 @@ Moscow, Russia | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [
 
 * Designed, built, and maintained backend services for business and software development infrastructure (**REST API**, **Python**, **PostgreSQL**, **MongoDB**).
 * Improved performance, stability, and observability of large-scale distributed systems.
-* Collaborate with other teams to establish and improve integrations across software development tools and services.
+* Collaborated with other teams to establish and improve integrations across software development tools and services.
 
 **Software Engineer Intern**, Jun 2011 – Jun 2013\
 *Intel Corporation* *(Moscow)*
