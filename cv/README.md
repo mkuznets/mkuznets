@@ -1,6 +1,6 @@
 [Download PDF](./cv.pdf)
 
-# Max Kuznetsov
+# Maksim Kuznetcov
 
 Backend Software Engineer (**Golang**, **Python**) · Computer Science Teacher · Ex-Compiler Engineer
 
