@@ -13,6 +13,11 @@ sections:
   - title: 'Опыт работы'
     entries:
 
+      - title: 'Разработчик'
+        subtitle: 'OZON.ru (Москва)'
+        rtitle: 'мар 2021 – сейчас'
+        description: []
+
       - title: 'Backend-разработчик'
         subtitle: 'Яндекс (Москва)'
         rtitle: 'янв 2017 – дек 2019'

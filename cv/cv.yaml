@@ -16,6 +16,12 @@ sections:
     entries:
 
       - title: 'Software Engineer'
+        rtitle: 'Mar 2021 – Present'
+        subtitle: '[OZON.ru](https://ozon.ru)'
+        rsubtitle: 'Moscow'
+        description: []
+
+      - title: 'Software Engineer'
         rtitle: 'Jan 2017 – Dec 2019'
         subtitle: '[Yandex](https://yandex.com/company)'
         rsubtitle: 'Moscow'

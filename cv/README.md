@@ -9,6 +9,10 @@ Moscow, Russia | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [
 
 ## Experience
 
+**Software Engineer**, Mar 2021 – Present\
+*[OZON.ru](https://ozon.ru)* *(Moscow)*
+
+
 **Software Engineer**, Jan 2017 – Dec 2019\
 *[Yandex](https://yandex.com/company)* *(Moscow)*
 
