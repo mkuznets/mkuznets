@@ -2,14 +2,18 @@
 
 # Maksim Kuznetcov
 
-Backend Software Engineer (**Golang**, **Python**) · Computer Science Teacher · Ex-Compiler Engineer
+Software engineer (**Golang**, **Python**, **Ruby**) · Computer science teacher · Ex-compiler engineer
 
 
-Moscow, Russia | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [github.com/mkuznets](https://github.com/mkuznets) | [linkedin.com/in/mkuznets](https://linkedin.com/in/mkuznets)
+London, UK | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [github.com/mkuznets](https://github.com/mkuznets) | [linkedin.com/in/mkuznets](https://linkedin.com/in/mkuznets)
 
 ## Experience
 
-**Software Engineer**, Mar 2021 – Present\
+**Software Engineer**, Jun 2021 – Present\
+*[Stripe](https://stripe.com)* *(London)*
+
+
+**Software Engineer**, Mar 2021 – Jun 2021\
 *[OZON.ru](https://ozon.ru)* *(Moscow)*
 
 

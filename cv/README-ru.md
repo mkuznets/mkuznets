@@ -2,14 +2,18 @@
 
 # Максим Кузнецов
 
-Backend-разработчик (**Golang**, **Python**) · Преподаватель компьютерных наук
+Backend-разработчик (**Golang**, **Python**, **Ruby**) · Преподаватель компьютерных наук
 
 
-Москва | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [github.com/mkuznets](https://github.com/mkuznets) | [linkedin.com/in/mkuznets](https://linkedin.com/in/mkuznets)
+Лондон | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [github.com/mkuznets](https://github.com/mkuznets) | [linkedin.com/in/mkuznets](https://linkedin.com/in/mkuznets)
 
 ## Опыт работы
 
-**Разработчик**, мар 2021 – сейчас\
+**Разработчик**, июн 2021 – сейчас\
+*[Stripe](https://stripe.com) (Лондон)* 
+
+
+**Разработчик**, мар 2021 – июн 2021\
 *OZON.ru (Москва)* 
 
 

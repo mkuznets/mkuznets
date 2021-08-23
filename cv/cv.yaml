@@ -1,11 +1,11 @@
 name: 'Maksim Kuznetcov'
 summary: >
-  Backend Software Engineer (**Golang**, **Python**)
-  · Computer Science Teacher
-  · Ex-Compiler Engineer
+  Software engineer (**Golang**, **Python**, **Ruby**)
+  · Computer science teacher
+  · Ex-compiler engineer
 
 contacts:
-  location: 'Moscow, Russia'
+  location: 'London, UK'
   email: 'maks.kuznetsov@gmail.com'
   github: 'mkuznets'
   linkedin: 'mkuznets'
@@ -16,7 +16,13 @@ sections:
     entries:
 
       - title: 'Software Engineer'
-        rtitle: 'Mar 2021 – Present'
+        rtitle: 'Jun 2021 – Present'
+        subtitle: '[Stripe](https://stripe.com)'
+        rsubtitle: 'London'
+        description: []
+
+      - title: 'Software Engineer'
+        rtitle: 'Mar 2021 – Jun 2021'
         subtitle: '[OZON.ru](https://ozon.ru)'
         rsubtitle: 'Moscow'
         description: []

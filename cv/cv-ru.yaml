@@ -1,9 +1,9 @@
 name: 'Максим Кузнецов'
 summary: >
-  Backend-разработчик (**Golang**, **Python**) · Преподаватель компьютерных наук
+  Backend-разработчик (**Golang**, **Python**, **Ruby**) · Преподаватель компьютерных наук
 
 contacts:
-  location: 'Москва'
+  location: 'Лондон'
   email: 'maks.kuznetsov@gmail.com'
   github: 'mkuznets'
   linkedin: 'mkuznets'
@@ -14,8 +14,13 @@ sections:
     entries:
 
       - title: 'Разработчик'
+        subtitle: '[Stripe](https://stripe.com) (Лондон)'
+        rtitle: 'июн 2021 – сейчас'
+        description: []
+
+      - title: 'Разработчик'
         subtitle: 'OZON.ru (Москва)'
-        rtitle: 'мар 2021 – сейчас'
+        rtitle: 'мар 2021 – июн 2021'
         description: []
 
       - title: 'Backend-разработчик'
