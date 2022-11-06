@@ -1,8 +1,8 @@
 [Download PDF](./cv.pdf)
 
-# Maksim Kuznetcov
+# Max Kuznetsov
 
-Software engineer (**Golang**, **Python**, **Ruby**) · Computer science teacher · Ex-compiler engineer
+Software engineer (**Golang**, **Python**, **Ruby**, **Java**)
 
 
 London, UK | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [github.com/mkuznets](https://github.com/mkuznets) | [linkedin.com/in/mkuznets](https://linkedin.com/in/mkuznets)
@@ -12,17 +12,21 @@ London, UK | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [gith
 **Software Engineer**, Jun 2021 – Present\
 *[Stripe](https://stripe.com)* *(London)*
 
+* Built, expanded, and maintained integrations with financial partners to enable money movement for various Stripe products in the UK/EU markets. (Stack: **Ruby, Java, MongoDB, gRPC**.)
+* Scoped, planned, and executed technical projects with other contributors and multiple internal and external stakeholders.
+* Collaborated with teams across the company to support product teams, leverage the existing solutions and infrastructure, meet compliance requirements, etc.
+* Spun up and mentored new Stripe engineers. Gave internal talks about various aspects of financial partner integrations.
 
 **Software Engineer**, Mar 2021 – Jun 2021\
 *[OZON.ru](https://ozon.ru)* *(Moscow)*
 
+* Maintained and built new features in backend services that enabled validation of product details provided by marketplace sellers. (Stack: **Golang, PostgreSQL, gRPC**.)
 
 **Software Engineer**, Jan 2017 – Dec 2019\
 *[Yandex](https://yandex.com/company)* *(Moscow)*
 
-* Designed, built, and maintained backend services for business and software development infrastructure (**REST API**, **Python**, **PostgreSQL**, **MongoDB**).
+* Designed, built, and maintained backend services for business and software development infrastructure. (Stack: **Python, Django, PostgreSQL, MongoDB, REST API**.)
 * Improved performance, stability, and observability of large-scale distributed systems.
-* Collaborated with other teams to establish and improve integrations across software development tools and services.
 
 **Software Engineer Intern**, Jun 2011 – Jun 2013\
 *Intel Corporation* *(Moscow)*
@@ -42,7 +46,6 @@ London, UK | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [gith
 **Computer Architecture**, Oct 2015 – May 2016\
 *University of Hertfordshire* *(Hatfield, UK)*
 
-* Gave supplemental lectures; designed homework assignments.
 
 
 ## Education
@@ -50,11 +53,9 @@ London, UK | [maks.kuznetsov@gmail.com](mailto:maks.kuznetsov@gmail.com) | [gith
 **University of Hertfordshire (UK)**, Jan 2014 – Jul 2016\
 *MSc by Research, Computer Science.* 
 
-* Thesis: *[Data-Driven Self-Tuning in a Coordination Programming Language](http://uhra.herts.ac.uk/handle/2299/17198)*.
 
 **Moscow Institute of Physics and Technology**, Sep 2009 – Feb 2014\
 *BSc, Applied Mathematics and Physics.* 
 
-* Thesis: *On Element-Wise Predicates Support in GCC Autovectorisation*.
 
 
