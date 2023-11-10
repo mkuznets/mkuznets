@@ -5,8 +5,8 @@ PDFS = $(patsubst %.tex,%.pdf,$(TEXS))
 
 .PHONY: all-docker
 all-docker:
-	docker build --quiet -f scripts/Dockerfile scripts -t cv:latest
-	docker run --rm -it --user="$(shell id --user):$(shell id --group)" -v ${PWD}:/cv cv:latest make all
+	docker build -f scripts/Dockerfile scripts -t cv:latest
+	docker run --rm -it -v ${PWD}:/cv cv:latest make all
 
 .PHONY: all
 all: markdown pdf clean

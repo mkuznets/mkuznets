@@ -1,4 +1,10 @@
-FROM ghcr.io/mkuznets/ubuntu:20.04-2020.11.04
+FROM ubuntu:20.04
+
+ENV DEBIAN_FRONTEND=noninteractive \
+    LANG='en_US.UTF-8' \
+    LANGUAGE='en_US:en' \
+    APT_KEY_DONT_WARN_ON_DANGEROUS_USAGE=1 \
+    TERM=xterm-color
 
 RUN apt-get update -q && \
     apt-get install -y -q --no-upgrade --no-install-recommends \

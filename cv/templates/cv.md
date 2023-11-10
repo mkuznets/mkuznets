@@ -10,8 +10,7 @@
 ## {{ section.title }}
 
 {% for entry in section.entries %}
-**{{ entry.title }}**, {{ entry.rtitle }}{% if entry.subtitle %}\
-*{{ entry.subtitle }}* {% if entry.rsubtitle %}*({{ entry.rsubtitle }})*{% endif %}{% endif %}
+**{{ entry.title }}**, {% if entry.subtitle %}{{ entry.subtitle }} {% if entry.rsubtitle %}*({{ entry.rsubtitle }})*{% endif %}{% endif %}, {{ entry.rtitle }}
 
 
 {% for line in entry.description %}

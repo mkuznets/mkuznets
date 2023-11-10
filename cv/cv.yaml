@@ -1,7 +1,5 @@
-name: 'Max Kuznetsov'
+name: 'Maksim Kuznetcov'
 summary: >
-  Software engineer (**Golang**, **Python**, **Ruby**, **Java**)
-
 contacts:
   location: 'London, UK'
   email: 'maks.kuznetsov@gmail.com'
@@ -13,8 +11,22 @@ sections:
   - title: 'Experience'
     entries:
 
+      - title: 'Senior Software Engineer'
+        rtitle: 'Feb 2023 – present'
+        subtitle: '[Checkout.com](https://checkout.com)'
+        rsubtitle: 'London'
+        description:
+          - >
+            Developing a platform for data scientists and payment experts to develop and deploy real-time payment optimisations. (Stack: **Golang, DynamoDB, Redis, gRPC**.)
+          - >
+            Worked with the platform users to improve development tooling and simplify deployment of new optimisations.
+          - >
+            Integrated the platform into Checkout's configuration infrastructure to simplify onboarding new merchants.
+          - >
+            Spun up new team members on the platform's architecture and internals.
+
       - title: 'Software Engineer'
-        rtitle: 'Jun 2021 – Present'
+        rtitle: 'Jun 2021 – Dec 2022'
         subtitle: '[Stripe](https://stripe.com)'
         rsubtitle: 'London'
         description:
@@ -22,8 +34,6 @@ sections:
             Built, expanded, and maintained integrations with financial partners to enable money movement for various Stripe products in the UK/EU markets. (Stack: **Ruby, Java, MongoDB, gRPC**.)
           - >
             Scoped, planned, and executed technical projects with other contributors and multiple internal and external stakeholders.
-          - >
-            Collaborated with teams across the company to support product teams, leverage the existing solutions and infrastructure, meet compliance requirements, etc.
           - >
             Spun up and mentored new Stripe engineers. Gave internal talks about various aspects of financial partner integrations.
 
@@ -47,7 +57,7 @@ sections:
 
       - title: 'Software Engineer Intern'
         rtitle: 'Jun 2011 – Jun 2013'
-        subtitle: 'Intel Corporation'
+        subtitle: 'Intel'
         rsubtitle: 'Moscow'
         description:
           - 'Contributed to AVX-512 support in GCC (**C**, **x86 assembly**);
@@ -73,7 +83,7 @@ sections:
         rtitle: 'Oct 2015 – May 2016'
         subtitle: 'University of Hertfordshire'
         rsubtitle: 'Hatfield, UK'
-        description: []
+        description: [ ]
 
   - title: 'Education'
     entries:
@@ -81,9 +91,9 @@ sections:
       - title: 'University of Hertfordshire (UK)'
         subtitle: 'MSc by Research, Computer Science.'
         rtitle: 'Jan 2014 – Jul 2016'
-        description: []
+        description: [ ]
 
       - title: 'Moscow Institute of Physics and Technology'
         subtitle: 'BSc, Applied Mathematics and Physics.'
         rtitle: 'Sep 2009 – Feb 2014'
-        description: []
+        description: [ ]
